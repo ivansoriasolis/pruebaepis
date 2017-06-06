@@ -3,5 +3,5 @@ Mi trabajo es: revisar sus tareas
 mir url: https://github.com/ivansoriasolis/pruebaepis
 - YUBER ALTAMIRANO PALOMINO
 - SPACE INVADERS
-- https://github.com/altamiranoAP/pruebaepis
+- https://github.com/altamiranoAP/INVADERS1
 - icaruzaltamirano@gmail.com
