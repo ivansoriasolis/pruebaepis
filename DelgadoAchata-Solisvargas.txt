@@ -7,7 +7,7 @@
 - Game Run
 
 ****URL de Repositorio****
-- https://github.com/edwinsv95
+- https://github.com/edwinsv95/Proyecto-Game-Run
 
 ****CORREOS ELECTRONICOS*****
 - delgadoachata95@gmail.com
