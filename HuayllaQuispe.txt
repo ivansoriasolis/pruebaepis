@@ -1,0 +1,5 @@
+	
+	- Huaylla Quispe Carlos Alberto
+	- juego de zombie
+	- url: https://github.com/chuaylla/ProyectoSoftware_zombi
+	- chuaylla95@gmail.com
