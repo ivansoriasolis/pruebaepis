@@ -3,5 +3,5 @@
 
 --- NOMBRE DEL JUEGO----
 -MESSENGER(TIPO CHAT)
--https://github.com/nelioyoel
+-https://github.com/nelioyoel/messenger-tipo-chat-
 -huarcayan98@gmaiol.com
