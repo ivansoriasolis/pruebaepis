@@ -1,0 +1,6 @@
+hernan pichihua alvarez
+alfredo olivares pastor
+ juego pacman en c++
+https://github.com/elhernan-yaes/pacman
+https://github.com/elhernan-yaes/pacmanjuego
+alvarez.pichihua.24s@gmail.com
