@@ -1,0 +1,4 @@
+- perez ivan
+- castillo jorge
+- url de nuestro proyecto: github.com/isoria/calculadora
+- calculadora android
