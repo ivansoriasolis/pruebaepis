@@ -1,0 +1,11 @@
+    -------intregrantes----
+
+ 
+ Sopanta Quispe Joel
+ Huaraca Flores Julio Cesar
+
+ nombre del juego :
+
+  super ninja
+
+https://github.com/juliocesarflores/super_ninja 
