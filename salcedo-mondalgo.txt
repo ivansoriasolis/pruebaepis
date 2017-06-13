@@ -2,7 +2,7 @@
 -: salcedo Porras, Abrahan
 
 tema: codigo QR DE IMAGINES
-URL: https://github.com/salcedo1/codigoQRimagen
+URL: https://github.com/salcedo1/CodigoQR
 
 CORREO ELECTRONICO:
 	emondalgo.03@gmail.com
