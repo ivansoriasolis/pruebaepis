@@ -1,0 +1,6 @@
+LINK DEL TRABAJO : https://github.com/santosser/juego2d
+NOMBRES : SANTOS SERNA RIVERA ( santos02.root@gmail.com)
+          JUAN M. ALVAREZ RAMIREZ
+NOMBRE DEL JUEGO :Aviones en 2d
+
+
