@@ -1,0 +1,6 @@
+integrantes
+- denis llantoy vasquez
+- jose carlos huaman lago
+juego : snake
+https://github.com/denisllantoy/snake
+dennyslv31@gmail.com
